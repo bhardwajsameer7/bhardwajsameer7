@@ -22,6 +22,14 @@ Welcome to my portfolio! Here you can find information about my projects, useful
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Personal Portfolio](https://yourportfolio.com)
+- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
+- ![Redis](https://img.icons8.com/color/48/000000/redis.png) Redis
+- ![Kafka](https://img.icons8.com/color/48/000000/kafka.png) Kafka
+- ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ReactJS
+- ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) LinkedIn
+
 
 ---
 
